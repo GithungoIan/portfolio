@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GithungoIan/portfolio/issues"
   },
-  "homepage": "https://github.com/GithungoIan/portfolio#readme"
+  "homepage": "https://github.com/GithungoIan/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
 }
